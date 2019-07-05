@@ -1,0 +1,47 @@
+Title: L'Inter des Laurentides (TaCL) Bus - MonTransit
+----------
+Short description:
+L'Inter des Laurentides (TaCL) buses for MonTransits
+Schedule. News.
+----------
+What's new in this version?:
+Schedule from July 1, 2019 to June 30, 2020.
+News from www.transportlaurentides.ca.
+Tweets from @TACLLaurentides.
+----------
+Full description:
+This application adds L'Inter des Laurentides (TaCL) buses information to MonTransit.
+
+This app contains the buses schedule and the latest news from www.transportlaurentides.ca and @TACLLaurentides on Twitter.
+
+L'Inter des Laurentides serves L’Ascension, Macaza, Nominingue, Mont-Tremblant, Prévost, Rivière-Rouge et St-Jérôme in Quebec (Canada).
+
+Once this application is installed, the MonTransit app will display buses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the Transport adapté et collectif des Laurentides (TaCL).
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-laurentides-linter-bus-android
+
+This app is not related with the Transport adapté et collectif des Laurentides (TaCL) and Inter des Laurentides.
+
+Permissions:
+- Other: required to read news from www.transportlaurentides.ca and Twitter
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-laurentides-linter-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:
