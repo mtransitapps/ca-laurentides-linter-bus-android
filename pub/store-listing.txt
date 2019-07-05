@@ -1,7 +1,7 @@
 Title: L'Inter des Laurentides (TaCL) Bus - MonTransit
 ----------
 Short description:
-L'Inter des Laurentides (TaCL) buses for MonTransits
+L'Inter des Laurentides (TaCL) buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
@@ -44,4 +44,4 @@ Email: mtransit.apps+GooglePlay@gmail.com
 ----------
 Phone: 
 ----------
-Privacy Policy:
+Privacy Policy: https://github.com/mtransitapps/mtransit-for-android/wiki/PrivacyPolicy
