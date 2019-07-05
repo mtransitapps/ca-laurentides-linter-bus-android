@@ -17,7 +17,7 @@
         <item>https://www.transportlaurentides.ca/inter/avis-nouvelles/</item>
     </string-array>
     <string-array name="rss_feeds_label">
-        <item>www.transportlaurentides.ca</item>
+        <item>transportlaurentides.ca</item>
     </string-array>
     <string-array name="rss_feeds_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
