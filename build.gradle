@@ -6,7 +6,6 @@ dependencies {
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
-    buildToolsVersion rootProject.ext.buildToolsVersion
 
     Properties projectNameProperties = new Properties()
     projectNameProperties.load(new FileInputStream(file("project_name.properties")))
