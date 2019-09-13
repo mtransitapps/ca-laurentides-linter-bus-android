@@ -86,7 +86,6 @@ android {
             // testCoverageEnabled false // DEBUG skip coverage report
             shrinkResources false
             minifyEnabled false
-            useProguard false
             aaptOptions.cruncherEnabled = false
         }
         //noinspection GroovyMissingReturnStatement
@@ -103,7 +102,6 @@ android {
 
             shrinkResources false
             minifyEnabled false
-            useProguard false
         }
     }
 
