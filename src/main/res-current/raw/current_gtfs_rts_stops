@@ -8,7 +8,6 @@
 140201,'201N','Route 117 & Clos Prévostois',45.84169,-74.06171
 140202,'202N','Route 117 & Ch. Du Lac-Echo',45.85993,-74.06988
 140203,'203N','Route 117 & Ch. De La Ston',45.87382,-74.07761
-140301,'301N','Avila & Ch. Ste-Anne-Des-Lacs (Sortie 57)',45.88349,-74.10708
 140401,'401N','Avila & Ch. Du Moulin',45.88579,-74.12097
 140402,'402N','Avila & Ch. Des Éperviers',45.88811,-74.13895
 140403,'403N','Avila & Rue De La Gare',45.88977,-74.14864
@@ -78,7 +77,6 @@
 190201,'201S','Clos Prévostois & Route 117',45.8406,-74.06191
 190202,'202S','Lac-Echo & Route 117',45.85995,-74.07015
 190203,'203S','Ston & Route 117',45.87347,-74.07743
-190301,'301S','Avila & Ch. Ste-Anne-Des-Lacs (Sortie 57)',45.88378,-74.11123
 190401,'401S','Avila & Ch. Du Moulin',45.88576,-74.12108
 190402,'402S','Avila & Ch. Des Éperviers',45.88811,-74.13901
 190403,'403S','Avila & Rue De La Gare',45.88975,-74.14866
