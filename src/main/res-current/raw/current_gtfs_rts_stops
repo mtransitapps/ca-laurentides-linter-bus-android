@@ -70,7 +70,7 @@
 141130,'1130N','L’Annonciation Sud / Mtée Marois / Pont (Hôtel De Ville)',46.408906,-74.86943
 141140,'1140N','L’Annonciation Nord / Mtée Charles',46.415765,-74.872634
 141150,'1150N','L’Annonciation Nord (Hôpital / CISSS Antoine-Labelle)',46.423551,-74.88491
-149011,'9011N','Route 117 & Ch.Du Lac Colibri',46.1182,-74.431891
+149011,'9011N','Route 117 & Ch.Du Lac Colibri',46.118289,-74.431026
 190102,'102S','Palais & Rue De La Gare',45.778167,-74.000527
 190104,'104S','Martigny (Palais De Justice)',45.780061,-74.008037
 190105,'105S','Martigny (DicAnn)',45.779496,-74.014873
@@ -140,4 +140,4 @@
 191130,'1130S','L’Annonciation Sud / Pont (Hôtel De Ville)',46.408828,-74.86966
 191140,'1140S','L’Annonciation Nord / Mtée Charles',46.415758,-74.8729
 191150,'1150S','L’Annonciation Nord (Hôpital / CISSS Antoine-Labelle)',46.420749,-74.880633
-199011,'9011S','Route 117 & Ch. Du Lac Colibri',46.118289,-74.431026
+199011,'9011S','Route 117 & Ch. Du Lac Colibri',46.1182,-74.431891
