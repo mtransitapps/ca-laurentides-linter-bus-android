@@ -2,7 +2,7 @@
 1006,'1006','Labelle & Rue De St-Jovite',46.119068,-74.592941
 1012,'1012','Labelle & Rue De St-Jovite',46.119068,-74.592941
 140103,'103N','Palais & Rue Fournier (CEGEP)',45.778412,-74.001255
-140104,'104N','Martigny (Palais De Justice)',46.12337,-74.581838
+140104,'104N','Martigny (Palais De Justice)',45.780261,-74.007956
 140105,'105N','Martigny (Pétro Canada)',45.779681,-74.014808
 140106,'106N','Grignon (Carref. Du Nord)',45.794255,-74.014951
 140201,'201N','Route 117 & Clos Prévostois',45.839469,-74.061128
@@ -96,7 +96,7 @@
 190507,'507S','1661, Boul. De Ste-Adèle (Desjardins Marine)',45.961003,-74.147106
 190508,'508S','Route 117 / Mont-Loup-Garou / Séraphin',45.970126,-74.169566
 190509,'509S','Route 117 & Rue De La Perdriole / Érables',45.976264,-74.18584
-190600,'600S','Route 117 & Ch. Val-Royal',45.981807,-74.197715
+190600,'600S','Route 117 & Ch. Val-Royal',45.982299,-74.197673
 190601,'601S','Route 117 & Ch. Du Curé-Corbeil (Sud)',45.994849,-74.200064
 190602,'602S','Route 117 (Ski Belle-Neige)',46.003696,-74.213798
 190701,'701S','Route 117 & Rue De L’Ermitage',46.015964,-74.212746
@@ -109,7 +109,7 @@
 190804,'804S','Morin (CLE Ste-Agathe)',46.046098,-74.279128
 190805,'805S','Brissette & Rue Demontigny (CFP Des Sommets)',46.051072,-74.280055
 190806,'806S','St-Paul & Rue Ste-Agathe',46.051732,-74.284903
-190807,'807S','St-Paul & Rue St-Antoine',46.051864,-74.287232
+190807,'807S','St-Paul & Rue St-Antoine',46.051848,-74.287099
 190808,'808S','St-Vincent (Hôpital-CISSS Des Sommets)',46.055165,-74.287671
 190809,'809S','Route 117 & Rue Lasalle',46.060945,-74.287475
 190810,'810S','Route 117 & Ch. Renaud',46.0652,-74.307891
@@ -140,4 +140,4 @@
 191130,'1130S','L’Annonciation Sud / Pont (Hôtel De Ville)',46.408828,-74.86966
 191140,'1140S','L’Annonciation Nord / Mtée Charles',46.415758,-74.8729
 191150,'1150S','L’Annonciation Nord (Hôpital / CISSS Antoine-Labelle)',46.420749,-74.880633
-199011,'9011S','Route 117 & Ch. Du Lac Colibri',46.1182,-74.431891
+199011,'9011S','Route 117 & Ch. Du Lac Colibri',46.118203,-74.431891
