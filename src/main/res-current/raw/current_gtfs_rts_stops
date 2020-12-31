@@ -4,37 +4,37 @@
 140103,'103N','Palais & Rue Fournier (CEGEP)',45.778412,-74.001255
 140104,'104N','Martigny (Palais De Justice)',45.780261,-74.007956
 140105,'105N','Martigny (Pétro Canada)',45.779681,-74.014808
-140106,'106N','Grignon (Carref. Du Nord)',45.794255,-74.014951
+140106,'106N','Grignon (Carref Du Nord)',45.794255,-74.014951
 140201,'201N','Route 117 & Clos Prévostois',45.839469,-74.061128
-140202,'202N','Route 117 & Ch. Du Lac-Echo',45.859694,-74.069774
-140203,'203N','Route 117 & Ch. De La Ston',45.873705,-74.07741
-140401,'401N','Avila & Ch. Du Moulin',45.885805,-74.120844
-140402,'402N','Avila & Ch. Des Éperviers',45.888107,-74.138749
+140202,'202N','Route 117 & Ch Du Lac-Echo',45.859694,-74.069774
+140203,'203N','Route 117 & Ch De La Ston',45.873705,-74.07741
+140401,'401N','Avila & Ch Du Moulin',45.885805,-74.120844
+140402,'402N','Avila & Ch Des Éperviers',45.888107,-74.138749
 140403,'403N','Avila & Rue De La Gare',45.889775,-74.148618
 140404,'404N','Lac Millette & Rue De La Gare',45.89092,-74.152418
 140405,'405N','Lac Millette & Rue Guindon',45.893774,-74.148916
-140406,'406N','Lac Millette & Sortie Aut. 15',45.895978,-74.147603
-140407,'407N','Principale & Ch. Du Lac Millette',45.898502,-74.148614
-140408,'408N','Route 117 & Ch. De La Gare',45.90501,-74.138193
-140409,'409N','Route 117 & Ch. De La Falaise',45.914393,-74.146738
-140501,'501N','Route 117 & Ch. Des Ancêtres Sud (Entrepôts Ste-Adèle)',45.922634,-74.143879
+140406,'406N','Lac Millette & Sortie Aut 15',45.895978,-74.147603
+140407,'407N','Principale & Ch Du Lac Millette',45.898502,-74.148614
+140408,'408N','Route 117 & Ch De La Gare',45.90501,-74.138193
+140409,'409N','Route 117 & Ch De La Falaise',45.914393,-74.146738
+140501,'501N','Route 117 & Ch Des Ancêtres Sud (Entrepôts Ste-Adèle)',45.922634,-74.143879
 140502,'502N','Ste-Adèle (Maison Wilfrid Grignon Nord)',45.924611,-74.142271
 140503,'503N','Ste-Adèle (AN-Morin) & Rue Desjardins',45.936413,-74.132436
-140504,'504N','400 Boul. Ste-Adèle (CLE)',45.94503,-74.125413
-140505,'505N','Ste-Adèle & Ch. Notre-Dame',45.950602,-74.132764
+140504,'504N','400 Boul Ste-Adèle (CLE)',45.94503,-74.125413
+140505,'505N','Ste-Adèle & Ch Notre-Dame',45.950602,-74.132764
 140506,'506N','Ste-Adèle & Rue Dumouchel (École Hôtelière)',45.953454,-74.137285
-140507,'507N','1661, Boul. Ste-Adèle (Desjardins Marine)',45.961001,-74.146787
+140507,'507N','1661, Boul Ste-Adèle (Desjardins Marine)',45.961001,-74.146787
 140508,'508N','Route 117 & Rue Séraphin',45.970148,-74.169299
-140509,'509N','Route 117 & Ch. Des Érables',45.976487,-74.186405
-140600,'600N','Route 117 & Ch. Val-Royal',45.982017,-74.197475
-140601,'601N','Route 117 & Ch. Du Curé-Corbeil (Nord)',45.995418,-74.200366
+140509,'509N','Route 117 & Ch Des Érables',45.976487,-74.186405
+140600,'600N','Route 117 & Ch Val-Royal',45.982017,-74.197475
+140601,'601N','Route 117 & Ch Du Curé-Corbeil (Nord)',45.995418,-74.200366
 140602,'602N','Route 117 (Ski Belle-Neige)',46.005859,-74.213178
 140701,'701N','Route 117 & Rue De L’Ermitage',46.015611,-74.212455
 140702,'702N','Route 117 & Rue De L’Église',46.025105,-74.214623
 140703,'703N','Route 117 & Rue De Val-David-En-Haut',46.033898,-74.218996
 140704,'704N','Route 117 & Rue Riverside',46.040477,-74.236716
 140801,'801N','Route 117 & Rue Du Domaine',46.0421,-74.255193
-140802,'802N','Principale & Ch. De La Riv.',46.0433,-74.265541
+140802,'802N','Principale & Ch De La Riv',46.0433,-74.265541
 140803,'803N','Principale / Beaulne / Laverdure',46.044447,-74.272229
 140804,'804N','Morin (CLE Ste-Agathe)',46.046535,-74.279157
 140805,'805N','Brissette & Rue Demontigny',46.05098,-74.279749
@@ -42,13 +42,13 @@
 140807,'807N','St-Paul & Rue St-Antoine',46.051995,-74.286848
 140808,'808N','St-Vincent (Hôpital-CISSS Des Sommets)',46.055173,-74.287483
 140809,'809N','Morin & Rue Lasalle',46.06104,-74.286793
-140810,'810N','Route 117 & Ch. Du Mont-Castor',46.065496,-74.30719
+140810,'810N','Route 117 & Ch Du Mont-Castor',46.065496,-74.30719
 140811,'811N','Route 117 / Gare',46.08982,-74.330327
-140901,'901N','Route 117 & Ch. Du Lac Nantel Sud (Golf Royal Laurentien)',46.104274,-74.405497
+140901,'901N','Route 117 & Ch Du Lac Nantel Sud (Golf Royal Laurentien)',46.104274,-74.405497
 140902,'902N','Aire De Service Le Routier',46.123704,-74.449732
 140903,'903N','Principale & Rue St-Faustin',46.115852,-74.478236
 140904,'904N','St-Faustin & Rue De La Pisciculture',46.113167,-74.484755
-140905,'905N','Mont-Blanc & Ch. Des Lacs',46.110916,-74.481998
+140905,'905N','Mont-Blanc & Ch Des Lacs',46.110916,-74.481998
 140906,'906N','Route 117 & Rue Du Domaine-Lauzon',46.11261,-74.517955
 141001,'1001N','St-Jovite & Rue Perreault',46.118085,-74.564563
 141002,'1002N','St-Jovite & Rue Des Pionniers',46.11911,-74.571121
@@ -65,7 +65,7 @@
 141070,'1070N','Curé Labelle / L’Église',46.280665,-74.735998
 141080,'1080N','Curé Labelle / Mgne',46.284281,-74.751971
 141090,'1090N','Curé Labelle / Minverve',46.297015,-74.777699
-141110,'1110N','Route 117 & Ch. Telmosse',46.324605,-74.792093
+141110,'1110N','Route 117 & Ch Telmosse',46.324605,-74.792093
 141120,'1120N','L’Annonciation Sud (Centre Culturel Et Sportif)',46.400329,-74.865601
 141130,'1130N','L’Annonciation Sud / Mtée Marois / Pont (Hôtel De Ville)',46.408906,-74.86943
 141140,'1140N','L’Annonciation Nord / Mtée Charles',46.415765,-74.872634
@@ -74,37 +74,37 @@
 190102,'102S','Palais & Rue De La Gare',45.778167,-74.000527
 190104,'104S','Martigny (Palais De Justice)',45.780061,-74.008037
 190105,'105S','Martigny (DicAnn)',45.779496,-74.014873
-190106,'106S','Grignon (Carref. Du Nord)',45.794489,-74.015409
+190106,'106S','Grignon (Carref Du Nord)',45.794489,-74.015409
 190201,'201S','Clos Prévostois & Route 117',45.840608,-74.06194
 190202,'202S','Lac-Echo & Route 117',45.860053,-74.070215
 190203,'203S','Ston & Route 117',45.873395,-74.077491
-190401,'401S','Avila & Ch. Du Moulin',45.885669,-74.121147
-190402,'402S','Avila & Ch. Des Éperviers',45.888085,-74.139163
+190401,'401S','Avila & Ch Du Moulin',45.885669,-74.121147
+190402,'402S','Avila & Ch Des Éperviers',45.888085,-74.139163
 190403,'403S','Avila & Rue De La Gare',45.88963,-74.148553
 190404,'404S','Lac Millette & Rue De La Gare',45.891414,-74.152399
 190405,'405S','Lac Millette & Rue Guindon',45.893746,-74.149237
-190406,'406S','Lac Millette & Sortie Aut. 15',45.896262,-74.147843
-190407,'407S','Principale & Ch. Du Lac Millette',45.89864,-74.148674
-190408,'408S','Route 117 & Ch. De La Gare',45.90473,-74.138313
-190409,'409S','Route 117 & Ch. Giroux',45.910844,-74.147289
-190501,'501S','Route 117 & Ch. Des Ancêtres Sud (Entrepôts Ste-Adèle)',45.922158,-74.144672
+190406,'406S','Lac Millette & Sortie Aut 15',45.896262,-74.147843
+190407,'407S','Principale & Ch Du Lac Millette',45.89864,-74.148674
+190408,'408S','Route 117 & Ch De La Gare',45.90473,-74.138313
+190409,'409S','Route 117 & Ch Giroux',45.910844,-74.147289
+190501,'501S','Route 117 & Ch Des Ancêtres Sud (Entrepôts Ste-Adèle)',45.922158,-74.144672
 190502,'502S','Ste-Adèle (Maison Wilfrid Grignon Sud)',45.924536,-74.142685
 190503,'503S','Ste-Adèle (AN-Morin)',45.9393,-74.13167
-190504,'504S','400 Boul. De Ste-Adèle (CLE)',45.945267,-74.125795
+190504,'504S','400 Boul De Ste-Adèle (CLE)',45.945267,-74.125795
 190505,'505S','Ste-Adèle & Rue Bélec (Place Des Citoyens)',45.951018,-74.133983
-190506,'506S','Ste-Adèle & Ch. Henri-Dunant (École Hôtelière)',45.953326,-74.137522
-190507,'507S','1661, Boul. De Ste-Adèle (Desjardins Marine)',45.961003,-74.147106
+190506,'506S','Ste-Adèle & Ch Henri-Dunant (École Hôtelière)',45.953326,-74.137522
+190507,'507S','1661, Boul De Ste-Adèle (Desjardins Marine)',45.961003,-74.147106
 190508,'508S','Route 117 / Mont-Loup-Garou / Séraphin',45.970126,-74.169566
 190509,'509S','Route 117 & Rue De La Perdriole / Érables',45.976264,-74.18584
-190600,'600S','Route 117 & Ch. Val-Royal',45.982299,-74.197673
-190601,'601S','Route 117 & Ch. Du Curé-Corbeil (Sud)',45.994849,-74.200064
+190600,'600S','Route 117 & Ch Val-Royal',45.982299,-74.197673
+190601,'601S','Route 117 & Ch Du Curé-Corbeil (Sud)',45.994849,-74.200064
 190602,'602S','Route 117 (Ski Belle-Neige)',46.003696,-74.213798
 190701,'701S','Route 117 & Rue De L’Ermitage',46.015964,-74.212746
 190702,'702S','Route 117 & Rue De L’Église',46.025307,-74.215029
 190703,'703S','Route 117 & Rue De Val-David-En-Haut',46.033409,-74.219018
 190704,'704S','Route 117 & Rue Riverside',46.040344,-74.236086
 190801,'801S','Route 117 & Rue Du Domaine',46.041972,-74.255587
-190802,'802S','Principale / Riv. / Mgne',46.043026,-74.265493
+190802,'802S','Principale / Riv / Mgne',46.043026,-74.265493
 190803,'803S','Principale / Beaulne / Laverdure',46.04436,-74.273022
 190804,'804S','Morin (CLE Ste-Agathe)',46.046098,-74.279128
 190805,'805S','Brissette & Rue Demontigny (CFP Des Sommets)',46.051072,-74.280055
@@ -112,14 +112,14 @@
 190807,'807S','St-Paul & Rue St-Antoine',46.051848,-74.287099
 190808,'808S','St-Vincent (Hôpital-CISSS Des Sommets)',46.055165,-74.287671
 190809,'809S','Route 117 & Rue Lasalle',46.060945,-74.287475
-190810,'810S','Route 117 & Ch. Renaud',46.0652,-74.307891
+190810,'810S','Route 117 & Ch Renaud',46.0652,-74.307891
 190811,'811S','Route 117 / Gare',46.089454,-74.330983
-190901,'901S','Route 117 & Ch. Du Lac Nantel Sud (Golf Royal Laurentien)',46.103711,-74.405744
+190901,'901S','Route 117 & Ch Du Lac Nantel Sud (Golf Royal Laurentien)',46.103711,-74.405744
 190902,'902S','Aire De Service Le Routier',46.122651,-74.452284
 190903,'903S','Principale & Rue St-Faustin',46.11574,-74.478625
 190904,'904S','St-Faustin & Rue De La Pisciculture',46.112993,-74.484706
-190905,'905S','Mont-Blanc & Ch. Des Lacs',46.109607,-74.481959
-190906,'906S','Route 117 & Ch. De La Sauvagine',46.112201,-74.518732
+190905,'905S','Mont-Blanc & Ch Des Lacs',46.109607,-74.481959
+190906,'906S','Route 117 & Ch De La Sauvagine',46.112201,-74.518732
 191001,'1001S','St-Jovite & Rue Perreault',46.117904,-74.56417
 191002,'1002S','St-Jovite & Rue Des Pionniers',46.119049,-74.571559
 191003,'1003S','Docteur-Gervais & Rue Vaillancourt',46.122272,-74.574209
@@ -135,9 +135,9 @@
 191070,'1070S','Curé Labelle / L’Église',46.280517,-74.735832
 191080,'1080S','Curé Labelle / Mgne',46.284309,-74.752354
 191090,'1090S','Curé Labelle / Minerve',46.297372,-74.7784
-191110,'1110S','Route 117 / Parc Ind.',46.324847,-74.79264
+191110,'1110S','Route 117 / Parc Ind',46.324847,-74.79264
 191120,'1120S','L’Annonciation Sud (Centre Culturel Et Sportif)',46.401041,-74.866375
 191130,'1130S','L’Annonciation Sud / Pont (Hôtel De Ville)',46.408828,-74.86966
 191140,'1140S','L’Annonciation Nord / Mtée Charles',46.415758,-74.8729
 191150,'1150S','L’Annonciation Nord (Hôpital / CISSS Antoine-Labelle)',46.420749,-74.880633
-199011,'9011S','Route 117 & Ch. Du Lac Colibri',46.118203,-74.431891
+199011,'9011S','Route 117 & Ch Du Lac Colibri',46.118203,-74.431891
