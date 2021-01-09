@@ -55,21 +55,6 @@
 141003,'1003N','Docteur-Gervais & Rue Vaillancourt',46.122184,-74.573987
 141004,'1004N','Docteur-Gervais (CFP L’Horizon)',46.12337,-74.581838
 141005,'1005N','Labelle & Rue Mercier',46.123339,-74.591623
-141014,'1014N','St-Jovite (Hôtel De Ville)',46.118433,-74.600579
-141016,'1016N','Route 117 & Chemin Napoléon',46.133835,-74.61626
-141020,'1020N','Route 117 / Chemin De La Mgne D’Argent',46.144571,-74.65325
-141030,'1030N','Principale / Tulipes',46.148438,-74.695264
-141040,'1040N','Principale / Centenaire',46.153381,-74.699538
-141050,'1050N','Route 117 / Chemin Des Cerisiers',46.221403,-74.709962
-141060,'1060N','Curé Labelle & Rue Boivin',46.276434,-74.730285
-141070,'1070N','Curé Labelle / L’Église',46.280665,-74.735998
-141080,'1080N','Curé Labelle / Mgne',46.284281,-74.751971
-141090,'1090N','Curé Labelle / Minverve',46.297015,-74.777699
-141110,'1110N','Route 117 & Ch Telmosse',46.324605,-74.792093
-141120,'1120N','L’Annonciation Sud (Centre Culturel Et Sportif)',46.400329,-74.865601
-141130,'1130N','L’Annonciation Sud / Mtée Marois / Pont (Hôtel De Ville)',46.408906,-74.86943
-141140,'1140N','L’Annonciation Nord / Mtée Charles',46.415765,-74.872634
-141150,'1150N','L’Annonciation Nord (Hôpital / CISSS Antoine-Labelle)',46.423551,-74.88491
 149011,'9011N','Route 117 & Ch.Du Lac Colibri',46.118289,-74.431026
 190102,'102S','Palais & Rue De La Gare',45.778167,-74.000527
 190104,'104S','Martigny (Palais De Justice)',45.780061,-74.008037
@@ -125,19 +110,4 @@
 191003,'1003S','Docteur-Gervais & Rue Vaillancourt',46.122272,-74.574209
 191004,'1004S','Docteur-Gervais (CFP L’Horizon)',46.123206,-74.582222
 191005,'1005S','Labelle & Rue Mercier',46.123071,-74.591748
-191014,'1014S','St-Jovite (Hôtel De Ville)',46.118277,-74.600324
-191016,'1016S','Route 117 & Mtée Ryan',46.132236,-74.613583
-191020,'1020S','Route 117 / Mgne D’Argent',46.1443,-74.653869
-191030,'1030S','Principale / Tulipes',46.148745,-74.695773
-191040,'1040S','Principale / Centenaire',46.153429,-74.699859
-191050,'1050S','Route 117 / Cerisiers',46.225438,-74.713288
-191060,'1060S','Curé Labelle / Boivin',46.276306,-74.730484
-191070,'1070S','Curé Labelle / L’Église',46.280517,-74.735832
-191080,'1080S','Curé Labelle / Mgne',46.284309,-74.752354
-191090,'1090S','Curé Labelle / Minerve',46.297372,-74.7784
-191110,'1110S','Route 117 / Parc Ind',46.324847,-74.79264
-191120,'1120S','L’Annonciation Sud (Centre Culturel Et Sportif)',46.401041,-74.866375
-191130,'1130S','L’Annonciation Sud / Pont (Hôtel De Ville)',46.408828,-74.86966
-191140,'1140S','L’Annonciation Nord / Mtée Charles',46.415758,-74.8729
-191150,'1150S','L’Annonciation Nord (Hôpital / CISSS Antoine-Labelle)',46.420749,-74.880633
 199011,'9011S','Route 117 & Ch Du Lac Colibri',46.118203,-74.431891
