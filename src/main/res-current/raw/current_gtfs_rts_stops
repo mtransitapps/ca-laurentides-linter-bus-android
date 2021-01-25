@@ -4,7 +4,7 @@
 140103,'103N','Palais & Rue Fournier (CEGEP)',45.778412,-74.001255
 140104,'104N','Martigny (Palais De Justice)',45.780261,-74.007956
 140105,'105N','Martigny (Pétro Canada)',45.779681,-74.014808
-140106,'106N','Grignon (Carref Du Nord)',45.794255,-74.014951
+140106,'106N','Grignon (Carref Du N)',45.794255,-74.014951
 140201,'201N','Route 117 & Clos Prévostois',45.839469,-74.061128
 140202,'202N','Route 117 & Ch Du Lac-Echo',45.859694,-74.069774
 140203,'203N','Route 117 & Ch De La Ston',45.873705,-74.07741
@@ -17,8 +17,8 @@
 140407,'407N','Principale & Ch Du Lac Millette',45.898502,-74.148614
 140408,'408N','Route 117 & Ch De La Gare',45.90501,-74.138193
 140409,'409N','Route 117 & Ch De La Falaise',45.914393,-74.146738
-140501,'501N','Route 117 & Ch Des Ancêtres Sud (Entrepôts Ste-Adèle)',45.922634,-74.143879
-140502,'502N','Ste-Adèle (Maison Wilfrid Grignon Nord)',45.924611,-74.142271
+140501,'501N','Route 117 & Ch Des Ancêtres S (Entrepôts Ste-Adèle)',45.922634,-74.143879
+140502,'502N','Ste-Adèle (Maison Wilfrid Grignon N)',45.924611,-74.142271
 140503,'503N','Ste-Adèle (AN-Morin) & Rue Desjardins',45.936413,-74.132436
 140504,'504N','400 Boul Ste-Adèle (CLE)',45.94503,-74.125413
 140505,'505N','Ste-Adèle & Ch Notre-Dame',45.950602,-74.132764
@@ -27,7 +27,7 @@
 140508,'508N','Route 117 & Rue Séraphin',45.970148,-74.169299
 140509,'509N','Route 117 & Ch Des Érables',45.976487,-74.186405
 140600,'600N','Route 117 & Ch Val-Royal',45.982017,-74.197475
-140601,'601N','Route 117 & Ch Du Curé-Corbeil (Nord)',45.995418,-74.200366
+140601,'601N','Route 117 & Ch Du Curé-Corbeil (N)',45.995418,-74.200366
 140602,'602N','Route 117 (Ski Belle-Neige)',46.005859,-74.213178
 140701,'701N','Route 117 & Rue De L’Ermitage',46.015611,-74.212455
 140702,'702N','Route 117 & Rue De L’Église',46.025105,-74.214623
@@ -44,7 +44,7 @@
 140809,'809N','Morin & Rue Lasalle',46.06104,-74.286793
 140810,'810N','Route 117 & Ch Du Mont-Castor',46.065496,-74.30719
 140811,'811N','Route 117 / Gare',46.08982,-74.330327
-140901,'901N','Route 117 & Ch Du Lac Nantel Sud (Golf Royal Laurentien)',46.104274,-74.405497
+140901,'901N','Route 117 & Ch Du Lac Nantel S (Golf Royal Laurentien)',46.104274,-74.405497
 140902,'902N','Aire De Service Le Routier',46.123704,-74.449732
 140903,'903N','Principale & Rue St-Faustin',46.115852,-74.478236
 140904,'904N','St-Faustin & Rue De La Pisciculture',46.113167,-74.484755
@@ -59,7 +59,7 @@
 190102,'102S','Palais & Rue De La Gare',45.778167,-74.000527
 190104,'104S','Martigny (Palais De Justice)',45.780061,-74.008037
 190105,'105S','Martigny (DicAnn)',45.779496,-74.014873
-190106,'106S','Grignon (Carref Du Nord)',45.794489,-74.015409
+190106,'106S','Grignon (Carref Du N)',45.794489,-74.015409
 190201,'201S','Clos Prévostois & Route 117',45.840608,-74.06194
 190202,'202S','Lac-Echo & Route 117',45.860053,-74.070215
 190203,'203S','Ston & Route 117',45.873395,-74.077491
@@ -72,8 +72,8 @@
 190407,'407S','Principale & Ch Du Lac Millette',45.89864,-74.148674
 190408,'408S','Route 117 & Ch De La Gare',45.90473,-74.138313
 190409,'409S','Route 117 & Ch Giroux',45.910844,-74.147289
-190501,'501S','Route 117 & Ch Des Ancêtres Sud (Entrepôts Ste-Adèle)',45.922158,-74.144672
-190502,'502S','Ste-Adèle (Maison Wilfrid Grignon Sud)',45.924536,-74.142685
+190501,'501S','Route 117 & Ch Des Ancêtres S (Entrepôts Ste-Adèle)',45.922158,-74.144672
+190502,'502S','Ste-Adèle (Maison Wilfrid Grignon S)',45.924536,-74.142685
 190503,'503S','Ste-Adèle (AN-Morin)',45.9393,-74.13167
 190504,'504S','400 Boul De Ste-Adèle (CLE)',45.945267,-74.125795
 190505,'505S','Ste-Adèle & Rue Bélec (Place Des Citoyens)',45.951018,-74.133983
@@ -82,7 +82,7 @@
 190508,'508S','Route 117 / Mont-Loup-Garou / Séraphin',45.970126,-74.169566
 190509,'509S','Route 117 & Rue De La Perdriole / Érables',45.976264,-74.18584
 190600,'600S','Route 117 & Ch Val-Royal',45.982299,-74.197673
-190601,'601S','Route 117 & Ch Du Curé-Corbeil (Sud)',45.994849,-74.200064
+190601,'601S','Route 117 & Ch Du Curé-Corbeil (S)',45.994849,-74.200064
 190602,'602S','Route 117 (Ski Belle-Neige)',46.003696,-74.213798
 190701,'701S','Route 117 & Rue De L’Ermitage',46.015964,-74.212746
 190702,'702S','Route 117 & Rue De L’Église',46.025307,-74.215029
@@ -99,7 +99,7 @@
 190809,'809S','Route 117 & Rue Lasalle',46.060945,-74.287475
 190810,'810S','Route 117 & Ch Renaud',46.0652,-74.307891
 190811,'811S','Route 117 / Gare',46.089454,-74.330983
-190901,'901S','Route 117 & Ch Du Lac Nantel Sud (Golf Royal Laurentien)',46.103711,-74.405744
+190901,'901S','Route 117 & Ch Du Lac Nantel S (Golf Royal Laurentien)',46.103711,-74.405744
 190902,'902S','Aire De Service Le Routier',46.122651,-74.452284
 190903,'903S','Principale & Rue St-Faustin',46.11574,-74.478625
 190904,'904S','St-Faustin & Rue De La Pisciculture',46.112993,-74.484706
