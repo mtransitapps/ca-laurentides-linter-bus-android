@@ -52,7 +52,7 @@
 141001,'1001N','St-Jovite & Rue Perreault',46.118085,-74.564563
 141002,'1002N','St-Jovite & Rue Des Pionniers',46.11911,-74.571121
 141003,'1003N','Docteur-Gervais & Rue Vaillancourt',46.122184,-74.573987
-141004,'1004N','Docteur-Gervais (CFP L’Horizon)',46.12337,-74.581838
+141004,'1004N','Docteur-Gervais (CFP L’Horizon / CCMT / Polyvalente)',46.12337,-74.581838
 149011,'9011N','Route 117 & Ch.Du Lac Colibri',46.118289,-74.431026
 190102,'102S','Palais & Rue De La Gare',45.778167,-74.000527
 190104,'104S','Martigny (Palais De Justice)',45.780061,-74.008037
@@ -107,5 +107,5 @@
 191001,'1001S','St-Jovite & Rue Perreault',46.117904,-74.56417
 191002,'1002S','St-Jovite & Rue Des Pionniers',46.119049,-74.571559
 191003,'1003S','Docteur-Gervais & Rue Vaillancourt',46.122272,-74.574209
-191004,'1004S','Docteur-Gervais (CFP L’Horizon)',46.123206,-74.582222
+191004,'1004S','Docteur-Gervais (CFP L’Horizon / CCMT / Polyvalente)',46.123206,-74.582222
 199011,'9011S','Route 117 & Ch Du Lac Colibri',46.118203,-74.431891
