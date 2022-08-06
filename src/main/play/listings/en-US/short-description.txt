@@ -1,2 +1,1 @@
-L'Inter des Laurentides (TaCL) buses for MonTransit.
-Schedule. News.
+L'Inter des Laurentides (TaCL) buses for MonTransit. Schedule. News.
