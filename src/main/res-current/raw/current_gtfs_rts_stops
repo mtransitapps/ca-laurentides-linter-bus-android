@@ -1,4 +1,4 @@
-101,'101','Gare Intermodale De St-Jérôme',45.773519,-73.999836
+101,'101','Gare Intermodale De St-Jérôme',45.7736159,-74.0003224
 140103,'103N','Palais & Rue Fournier (CEGEP)',45.778412,-74.001255
 140104,'104N','Martigny (Palais De Justice)',45.780261,-74.007956
 140105,'105N','Martigny (Pétro Canada)',45.779681,-74.014808
@@ -18,7 +18,7 @@
 140409,'409N','Route 117 & Ch De La Falaise',45.914393,-74.146738
 140501,'501N','Route 117 & Ch Des Ancêtres S (Entrepôts Ste-Adèle)',45.922634,-74.143879
 140502,'502N','Ste-Adèle (Maison Wilfrid Grignon N)',45.924611,-74.142271
-140503,'503N','Ste-Adèle (AN-Morin) & Rue Desjardins',45.936413,-74.132436
+140503,'503N','Ste-Adèle & Rue Desjardins',45.936413,-74.132436
 140504,'504N','400 Boul Ste-Adèle (CLE)',45.94503,-74.125413
 140505,'505N','Ste-Adèle & Ch Notre-Dame (Pl Des Citoyens)',45.950602,-74.132764
 140506,'506N','Ste-Adèle & Rue Dumouchel (École Hôtelière)',45.953454,-74.137285
@@ -54,7 +54,7 @@
 141003,'1003N','Docteur-Gervais & Rue Vaillancourt',46.122184,-74.573987
 141004,'1004N','Docteur-Gervais (CFP L’Horizon / CCMT / Polyvalente)',46.12337,-74.581838
 149011,'9011N','Route 117 & Ch.Du Lac Colibri',46.118289,-74.431026
-190102,'102S','Palais & Rue De La Gare',45.778167,-74.000527
+190102,'102S','Palais & Rue Georges-Thurston',45.7781497,-74.0004907
 190104,'104S','Martigny (Palais De Justice)',45.780061,-74.008037
 190105,'105S','Martigny (DicAnn)',45.779496,-74.014873
 190106,'106S','Grignon (Carref Du N)',45.794489,-74.015409
@@ -73,7 +73,7 @@
 190409,'409S','Route 117 & Ch Giroux',45.910844,-74.147289
 190501,'501S','Route 117 & Ch Des Ancêtres S (Entrepôts Ste-Adèle)',45.922158,-74.144672
 190502,'502S','Ste-Adèle (Maison Wilfrid Grignon S)',45.924536,-74.142685
-190503,'503S','Ste-Adèle (AN-Morin)',45.9393,-74.13167
+190503,'503S','Ste-Adèle & Rue Desjardins',45.936413,-74.132436
 190504,'504S','400 Boul De Ste-Adèle (CLE)',45.945267,-74.125795
 190505,'505S','Ste-Adèle & Rue Bélec (Pl Des Citoyens)',45.951018,-74.133983
 190506,'506S','Ste-Adèle & Ch Henri-Dunant (École Hôtelière)',45.953326,-74.137522
@@ -109,3 +109,5 @@
 191003,'1003S','Docteur-Gervais & Rue Vaillancourt',46.122272,-74.574209
 191004,'1004S','Docteur-Gervais (CFP L’Horizon / CCMT / Polyvalente)',46.123206,-74.582222
 199011,'9011S','Route 117 & Ch Du Lac Colibri',46.118203,-74.431891
+1140503,'503ANM','Ste-Adèle (AN-Morin) & Rue Boyer',45.939919,-74.130528
+1190503,'503S-ANM','Ste-Adèle (AN-Morin) & Rue Boyer',45.939919,-74.130528
