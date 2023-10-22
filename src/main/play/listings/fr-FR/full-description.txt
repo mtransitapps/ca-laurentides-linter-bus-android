@@ -10,10 +10,10 @@ Cette application a seulement une icône temporaire : télécharger l'app MonTra
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par le Transport adapté et collectif des Laurentides (TaCL).
-
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-laurentides-linter-bus-android
+
+Ces horaires sont générées à partir du fichier GTFS fourni par le Transport adapté et collectif des Laurentides (TaCL).
 
 Cette application n'est pas associée au Transport adapté et collectif des Laurentides (TaCL) et l'Inter des Laurentides.
 
