@@ -41,7 +41,7 @@
                 android:value="@string/gtfs_rts_authority" />
         </provider>
         <!-- TWITTER NEWS PROVIDER -->
-        <!-- RSS available
+        <!-- no post since 2015
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
             android:authorities="@string/twitter_authority"
