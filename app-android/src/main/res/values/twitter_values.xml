@@ -4,7 +4,7 @@
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="twitter_color">@string/gtfs_rts_color</string>
     <string-array name="twitter_screen_names">
-        <!-- <item>TACLLaurentides</item> --><!-- RSS available -->
+        <!-- <item>TACLLaurentides</item> --><!-- no post since 2015 -->
     </string-array>
     <string-array name="twitter_screen_names_id">
         <!-- <item>2826472729</item> -->
