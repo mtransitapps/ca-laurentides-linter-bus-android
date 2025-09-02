@@ -8,7 +8,6 @@ import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
-import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
 import org.mtransit.parser.mt.data.MRoute;
@@ -21,11 +20,6 @@ public class LaurentidesLInterBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
 		new LaurentidesLInterBusAgencyTools().start(args);
-	}
-
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
 	}
 
 	@Nullable
@@ -74,20 +68,9 @@ public class LaurentidesLInterBusAgencyTools extends DefaultAgencyTools {
 		return super.convertRouteIdFromShortNameNotSupported(routeShortName);
 	}
 
-	@NotNull
 	@Override
-	public String getRouteShortName(@NotNull GRoute gRoute) {
-		//noinspection deprecation
-		final String routeId = gRoute.getRouteId();
-		switch (routeId) {
-		case "ZCN":
-		case "ZCS":
-			return "ZC";
-		case "ZNN":
-		case "ZNS":
-			return "ZN";
-		}
-		throw new MTLog.Fatal("Unexpected route ID for %s!", gRoute);
+	public boolean useRouteIdForRouteShortName() {
+		return true;
 	}
 
 	@Override
@@ -151,10 +134,10 @@ public class LaurentidesLInterBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
 		final String stopCode = getStopCode(gStop);
-		if (stopCode.length() > 0 & CharUtils.isDigitsOnly(stopCode)) {
+		if (!stopCode.isEmpty() & CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // using stop code as stop ID
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId1 = gStop.getStopId();
 		final Matcher matcher = DIGITS.matcher(stopCode);
 		if (matcher.find()) {
