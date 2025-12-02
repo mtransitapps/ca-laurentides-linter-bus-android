@@ -80,6 +80,11 @@ public class LaurentidesLInterBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public boolean verifyRouteIdsUniqueness() {
+		return false; // merge routes
+	}
+
+	@Override
 	public boolean mergeRouteLongName(@NotNull MRoute mRoute, @NotNull MRoute mRouteToMerge) {
 		if (mRoute.getId() == 1_003L) {
 			mRoute.setLongName("Inter Centre");
