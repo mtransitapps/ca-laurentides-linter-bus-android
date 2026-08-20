@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <string name="gtfs_real_time_agency_vehicle_positions_url">https://zenbus.net/gtfs/rt/poll.proto?file=vp&amp;dataset=linter</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://zenbus.net/gtfs/rt/poll.proto?file=tu&amp;dataset=linter</string>
+</resources>
