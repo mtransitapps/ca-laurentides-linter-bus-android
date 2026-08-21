@@ -1,7 +1,9 @@
 {
+    "comment_OLD": "with old URL: https://www.transportlaurentides.ca/wp-content/uploads/gtfs/taclgtfs.zip",
     "default_route_id_enabled": true,
-    "use_route_short_name_for_route_id": false,
-    "route_short_name_to_route_id_configs": [
+    "use_route_short_name_for_route_id_OLD": false,
+    "use_route_short_name_for_route_id": true,
+    "route_short_name_to_route_id_configs_OLD": [
         {
             "route_short_name": "ZC",
             "route_id": 1003
@@ -27,16 +29,26 @@
             "route_id": 1014
         }
     ],
-    "use_route_id_for_route_short_name": true,
-    "route_id_cleanup_regex": "[N|S]$",
-    "route_id_not_unique_allowed": true,
-    "route_id_not_unique_allowed_comment": "merge routes",
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "Inter",
+            "route_id": 1003
+        }
+    ],
+    "use_route_id_for_route_short_name_OLD": true,
+    "route_id_cleanup_regex_OLD": "[N|S]$",
+    "route_id_cleanup_regex": "^zenbus:Line:|:LOC$",
+    "route_id_not_unique_allowed_OLD": true,
+    "route_id_not_unique_allowed_comment_OLD": "merge routes",
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
-    "direction_splitter_enabled": true,
+    "direction_splitter_enabled_OLD": true,
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
-    "use_stop_code_for_stop_id": true,
+    "use_stop_code_for_stop_id_OLD": true,
+    "use_stop_code_for_stop_id_digits_only_NOT": true,
+    "use_stop_code_for_stop_id_if_available": true,
+    "stop_id_cleanup_regex": "^zenbus:(StopPoint:SP|StopArea:SA):|:LOC$",
     "stop_id_next_char_configs": [
         {
             "char": "S-ANM",
@@ -49,8 +61,121 @@
     ],
     "stop_id_not_supported_configs": [
         {
+            "original_stop_id_not_stop_code": "5204588432982016",
             "original_stop_id": "503S-ANM",
-            "stop_id_int": 1190503
+            "stop_id_int": 1190503,
+            "stop_id_int_alt": 1900503
+        },
+        {
+            "original_stop_id": "4754468745773056",
+            "stop_code": "503ANM",
+            "stop_id_int": 1140503,
+            "stop_id_int_alt": 1400503
+        },
+        {
+            "original_stop_id": "5173639636844544",
+            "stop_code": "301N",
+            "stop_id_int": 1400301
+        },
+        {
+            "original_stop_id": "5141466169999360",
+            "stop_code": "407N",
+            "stop_id_int": 1400407
+        },
+        {
+            "original_stop_id": "5197738563076096",
+            "stop_code": "508N",
+            "stop_id_int": 1400508
+        },
+        {
+            "original_stop_id": "6316240321642496",
+            "stop_code": "509N",
+            "stop_id_int": 1400509
+        },
+        {
+            "original_stop_id": "5458156187549696",
+            "stop_code": "???N",
+            "stop_id_int": 11400703
+        },
+        {
+            "original_stop_id": "4504663784161280",
+            "stop_code": "704N",
+            "stop_id_int": 1400704
+        },
+        {
+            "original_stop_id": "4639251214893056",
+            "stop_code": "802N",
+            "stop_id_int": 1400802
+        },
+        {
+            "original_stop_id": "6584056094392320",
+            "stop_code": "902N",
+            "stop_id_int": 1400902
+        },
+        {
+            "original_stop_id": "5574415784869888",
+            "stop_code": "905N",
+            "stop_id_int": 1400905
+        },
+        {
+            "original_stop_id": "5161497696141312",
+            "stop_code": "905S",
+            "stop_id_int": 1900905
+        },
+        {
+            "original_stop_id": "6388853186232320",
+            "stop_code": "1002N",
+            "stop_id_int": 1401002
+        },
+        {
+            "original_stop_id": "5730019027451904",
+            "stop_code": "1003N",
+            "stop_id_int": 1401003
+        },
+        {
+            "original_stop_id": "5639708481683456",
+            "stop_code": "807S",
+            "stop_id_int": 1900807
+        },
+        {
+            "original_stop_id": "5401920100368384",
+            "stop_code": "802S",
+            "stop_id_int": 1900802
+        },
+        {
+            "original_stop_id": "6155620758585344",
+            "stop_code": "703S",
+            "stop_id_int": 1900703
+        },
+        {
+            "original_stop_id": "6045708049186816",
+            "stop_code": "???S",
+            "stop_id_int": 11900703
+        },
+        {
+            "original_stop_id": "4522566818463744",
+            "stop_code": "701S",
+            "stop_id_int": 1900701
+        },
+        {
+            "original_stop_id": "5588811206623232",
+            "stop_code": "509S",
+            "stop_id_int": 1900509
+        },
+        {
+            "original_stop_id": "5382582714761216",
+            "stop_code": "502S",
+            "stop_id_int": 1900502
+        },
+        {
+            "original_stop_id": "6585258785898496",
+            "stop_code": "402S",
+            "stop_id_int": 1900402
+        },
+        {
+            "original_stop_id": "6569352240300032",
+            "stop_code": "401S",
+            "stop_id_int": 1900401
         }
     ],
     "stop_name_cleaners": []
