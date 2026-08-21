@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <!-- DISABLED: feed not available anymore -->
     <string-array name="rss_feeds">
         <item>https://www.transportlaurentides.ca/feed/</item>
     </string-array>
