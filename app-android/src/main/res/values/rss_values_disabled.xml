@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <!-- DISABLED: feed not available anymore -->
+    <string-array name="rss_feeds">
+        <item>https://www.transportlaurentides.ca/feed/</item>
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://www.transportlaurentides.ca/wp-content/uploads/2017/11/tacl-favicon.png</item>
+    </string-array>
+    <string-array name="rss_feeds_author_name">
+        <item>TaCL (Avis &amp; nouvelles)</item>
+    </string-array>
+    <string-array name="rss_feeds_author_url">
+        <item>https://www.transportlaurentides.ca/inter/avis-nouvelles/</item>
+    </string-array>
+    <string-array name="rss_feeds_label">
+        <item>transportlaurentides.ca</item>
+    </string-array>
+</resources>
